@@ -13,7 +13,7 @@ Repository untuk Tugas Laravel dan AJAX Praktikum ABP
 <br><br>
 
 <p align="center">
-<img src="images/LogoTelkom.png" width="350">
+<img src="LogoTelkom.png" width="350">
 </p>
 <br><br><br>
 
