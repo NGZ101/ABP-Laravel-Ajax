@@ -8,4 +8,4 @@ Route::get('/1', function () {
 });
 
 Route::get('/', [profileController::class, 'index']);
-Route::get('/api/profile', [profileController::class, 'getData']);
+Route::get('/profile', [profileController::class, 'getData']);

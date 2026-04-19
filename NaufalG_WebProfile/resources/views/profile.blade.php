@@ -66,7 +66,7 @@
             btn.innerHTML = '<i>Data Telah Ditampilkan</i>';
             btn.disabled = true;
 
-            fetch('/api/profile')
+            fetch('/profile')
                 .then(response => {
                     if (!response.ok) throw new Error('Gagal mengambil data JSON');
                     return response.json();
