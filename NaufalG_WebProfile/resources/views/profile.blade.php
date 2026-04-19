@@ -90,7 +90,7 @@
                     });
                     profileList3.innerHTML = profileHtml3;
 
-                    dataResult.style.display = 'block';
+                    cv.style.display = 'block';
                     document.getElementById('ajax-btn').style.display = 'none';
                 })
         });
