@@ -227,7 +227,7 @@ Route::get('/profile', [profileController::class, 'getData']);
 ## Hasil
 ### Sebelum 
 <p>Sebelum click tombol Tampil Data 3 mahasiswa </p>
-<img src="sebelum.png" width="600">
+<img src="Sebelum.png" width="600">
 ### Setelah
 <p>Setelah click tombol Tampil Data 3 mahasiswa </p>
-<img src="setelah.png" width="600">
+<img src="Setelah.png" width="600">
